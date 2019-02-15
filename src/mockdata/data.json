@@ -1,0 +1,65 @@
+{
+    "searchQuery": "lease",
+    "resultsCount": 250,
+    "results": [
+        {
+            "id": 1,
+            "title": "Grant of a sub-lease",
+            "metadata": [
+                {
+                    "type": "source",
+                    "value": "Overview | TolleyGuidance Corporate Tax - Guidance"
+                },
+                {
+                    "type": "url",
+                    "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+                }
+            ],
+            "content": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio..."
+        },
+        {
+            "id": 2,
+            "title": "Disposals of leases",
+            "metadata": [
+                {
+                    "type": "source",
+                    "value": "Overview | TolleyGuidance Owner-Managed Business - Guidance"
+                },
+                {
+                    "type": "url",
+                    "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+                }
+            ],
+            "content": "Disposals of leases Produced by TolleyUpon assignment (ie disposal), the party who has occupied property under a lease will have a capital gains disposal of his interest in  ...... because the assignment is not the grant of a new lease. For details of deemed rental income, see the Lease premiums guidance note. Just as.."
+        },
+        {
+            "id": 3,
+            "title": "B3.340Z Long funding leases-election by lessor to treat a lease as a long funding...",
+            "metadata": [
+                {
+                    "type": "source",
+                    "value": "Overview | Simon's Taxes"
+                },
+                {
+                    "type": "url",
+                    "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+                }
+            ],
+            "content": "B3.340Z Long funding leases—election by lessor to treat a lease as a long funding lease Regulations1 have been introduced which set out the conditions  .....  which a lessor may elect to treat all his eligible leases and qualifying incidental leases as long funding leases in circumstances where they would not be so..."
+        }
+    ],
+    "facets": {
+        "docTypes": [
+            {
+                "name": "Legislation",
+                "resultCount": 80
+            }
+        ],
+        "practiceArea": [
+            {
+                "name": "Corporate Tax",
+                "resultCount": 25
+            }
+        ]
+    }
+}
