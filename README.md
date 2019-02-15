@@ -5,6 +5,7 @@ I didn't find enough documentation or examples, so I picked up from lot of tutor
 There are many-many errors and warnings in the code, but it works.
 
 inside the project:
+
 npm install
 
 npm run dev
