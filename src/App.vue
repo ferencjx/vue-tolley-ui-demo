@@ -22,14 +22,20 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin: 0;
+}
+h1, h2 {
+  font-weight: normal;
 }
 
 a {
-  color: #778899;
-  text-decoration: none;
+    text-decoration: none;
+    color: #0067b7;
+    font-weight: bold;
 }
-
+a:hover {
+    text-decoration: underline;
+}
 
 ul {
   list-style-type: none;

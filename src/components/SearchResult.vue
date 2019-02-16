@@ -1,34 +1,35 @@
 <template>
 <div>
     <h1>{{ msg }}</h1>
-    <div class="searchResultCount">{{ resultsCount }} results</div>
-    <ul id="searchresultlist">
-        <li v-for="jdata in resultdata">
-            <SearchResultItem :itemdata=jdata />}
-        </li>
-    </ul>
+    <SearchResultHeader :resultsCount=resultsCount />
+    <div id='searchResultList' v-for="jdata in resultdata" v-bind:key=jdata.id>
+      <SearchResultItem :itemdata=jdata />
+    </div>
 </div>
 </template>
 
 <script>
 import Vue from 'vue'
-import resultjson from '../mockdata/data.json'
+
 import SearchResultItem from './SearchResultItem'
+import SearchResultHeader from './SearchResultHeader'
+
+import resultjson from '../mockdata/data.json'
 
 export default {
   name: 'Login',
   components: {
-    SearchResultItem
+    SearchResultItem,
+    SearchResultHeader
   },
   data () {
-    return searchresultlist
+    return searchResultList
   }
 }
 
-var searchresultlist = new Vue({
-  el: '#searchresultlist',
+var searchResultList = new Vue({
   data: {
-    msg: "Search Result List",
+    msg: 'Search Result List',
     resultdata: resultjson.results,
     resultsCount: resultjson.resultsCount
   }
@@ -37,23 +38,5 @@ var searchresultlist = new Vue({
 </script>
 
 <style scoped>
-h1, h2 {
-  font-weight: normal;
-}
-h2 {
-    color: #778899;
-}
-.searchResultCount{
-    padding: 10px;
-    width: 146px;
-    height: 12px;
-    font-family: Lato;
-    font-size: 10px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #373739;
-}
+
 </style>
