@@ -17,7 +17,7 @@ import SearchResultHeader from './SearchResultHeader'
 import resultjson from '../mockdata/data.json'
 
 export default {
-  name: 'Login',
+  name: 'SearchResult',
   components: {
     SearchResultItem,
     SearchResultHeader
