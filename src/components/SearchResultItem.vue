@@ -2,10 +2,10 @@
 <div class="searchResultItemContent">
     <div class="searchResultItem">
         <div class="title">
-            <a :href='itemdata.metadata[1].value'>{{itemdata.title}}</a>
+            <a :href='metadata[1].value'>{{title}}</a>
         </div>
-        <div class="metadata">{{itemdata.metadata[0].value}}</div>
-        <div class="content">{{itemdata.content}}</div>
+        <div class="metadata">{{metadata[0].value}}</div>
+        <div class="content">{{content}}</div>
     </div>
 </div>
 </template>
@@ -14,7 +14,26 @@
 export default {
   name: 'SearchResultItem',
   props: {
-    itemdata: Object
+    metadata: {
+      type: Array,
+      required: true,
+      validator: value => {
+        for (let v of value) {
+          if (v.type === 'url') {
+            return true
+          }
+        }
+        return false
+      }
+    },
+    title: {
+      type: String,
+      required: true
+    },
+    content: {
+      type: String,
+      required: true
+    }
   }
 }
 </script>

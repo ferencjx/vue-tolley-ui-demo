@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <SearchResultHeader :resultsCount=resultsCount />
     <div id='searchResultList' v-for="jdata in resultdata" v-bind:key=jdata.id>
-      <SearchResultItem :itemdata=jdata />
+      <SearchResultItem v-bind=jdata />
     </div>
 </div>
 </template>
