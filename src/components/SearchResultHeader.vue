@@ -6,7 +6,10 @@
 export default {
   name: 'SearchResultHeader',
   props: {
-    resultsCount: Number
+    resultsCount: {
+      type: Number,
+      default: 0
+    }
   }
 }
 </script>

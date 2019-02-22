@@ -1,13 +1,11 @@
 <template>
-<div class="searchResultItemContent">
-    <div class="searchResultItem">
+    <div class="SearchResultItem" id="SearchResultItem">
         <div class="title">
             <a :href='metadata[1].value'>{{title}}</a>
         </div>
         <div class="metadata">{{metadata[0].value}}</div>
         <div class="content">{{content}}</div>
     </div>
-</div>
 </template>
 
 <script>
@@ -16,33 +14,30 @@ export default {
   props: {
     metadata: {
       type: Array,
-      required: true,
+      required: false,
       validator: value => {
-        for (let v of value) {
-          if (v.type === 'url') {
-            return true
-          }
+        if (value.filter(v => v.type === 'url').length === 0) {
+          return false
+        } else {
+          return true
         }
-        return false
       }
     },
     title: {
       type: String,
-      required: true
+      required: false
     },
     content: {
       type: String,
-      required: true
+      required: false
     }
   }
 }
 </script>
 
 <style scoped>
-.searchResultItemContent{
-    text-align: left;
-}
-.searchResultItem {
+.SearchResultItem {
+  text-align: left;
     font-family: Lato;
     padding: 10px;
     font-size: 18px;

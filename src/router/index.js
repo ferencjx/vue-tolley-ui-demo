@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import HomePage from '@/components/HomePage'
 import Login from '@/components/Login'
 import ReadMe from '@/components/ReadMe'
-import SearchResult from '@/components/SearchResult'
+import SearchResultPage from '@/components/SearchResultPage'
 
 Vue.use(Router)
 
@@ -26,8 +26,8 @@ export default new Router({
     },
     {
       path: '/searchresult',
-      name: 'SearchResult',
-      component: SearchResult
+      name: 'SearchResultPage',
+      component: SearchResultPage
     }
   ]
 })

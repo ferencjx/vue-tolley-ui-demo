@@ -2,25 +2,23 @@
 <div>
     <h1>{{ msg }}</h1>
     <SearchResultHeader :resultsCount=resultsCount />
-    <div id='searchResultList' v-for="jdata in resultdata" v-bind:key=jdata.id>
-      <SearchResultItem v-bind=jdata />
-    </div>
+    <SearchResultList :results=results />
 </div>
 </template>
 
 <script>
 import Vue from 'vue'
 
-import SearchResultItem from './SearchResultItem'
+import SearchResultList from './SearchResultList'
 import SearchResultHeader from './SearchResultHeader'
 
 import resultjson from '../mockdata/data.json'
 
 export default {
-  name: 'SearchResult',
+  name: 'SearchResultPage',
   components: {
-    SearchResultItem,
-    SearchResultHeader
+    SearchResultHeader,
+    SearchResultList
   },
   data () {
     return searchResultList
@@ -30,7 +28,7 @@ export default {
 var searchResultList = new Vue({
   data: {
     msg: 'Search Result List',
-    resultdata: resultjson.results,
+    results: resultjson.results,
     resultsCount: resultjson.resultsCount
   }
 })

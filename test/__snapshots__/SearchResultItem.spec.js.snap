@@ -1,0 +1,1177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResultItem render from a Component with propsData 1`] = `
+VueComponent {
+  "$attrs": Object {},
+  "$children": Array [],
+  "$createElement": [Function],
+  "$el": <div
+    class="SearchResultItem"
+    id="SearchResultItem"
+  >
+    <div
+      class="title"
+    >
+      <a
+        href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+      >
+        Grant of a sub-lease
+      </a>
+    </div>
+     
+    <div
+      class="metadata"
+    >
+      Overview | TolleyGuidance Corporate Tax - Guidance
+    </div>
+     
+    <div
+      class="content"
+    >
+      Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+    </div>
+  </div>,
+  "$listeners": Object {},
+  "$options": Object {
+    "_Ctor": Object {
+      "0": [Function],
+    },
+    "_base": [Function],
+    "_propKeys": Array [
+      "metadata",
+      "title",
+      "content",
+    ],
+    "components": Object {},
+    "directives": Object {},
+    "filters": Object {},
+    "name": "SearchResultItem",
+    "props": Object {
+      "content": Object {
+        "required": false,
+        "type": [Function],
+      },
+      "metadata": Object {
+        "required": false,
+        "type": [Function],
+        "validator": [Function],
+      },
+      "title": Object {
+        "required": false,
+        "type": [Function],
+      },
+    },
+    "propsData": Object {
+      "content": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+      "metadata": Array [
+        Object {
+          "type": "source",
+          "value": "Overview | TolleyGuidance Corporate Tax - Guidance",
+        },
+        Object {
+          "type": "url",
+          "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+        },
+      ],
+      "title": "Grant of a sub-lease",
+    },
+    "render": [Function],
+    "staticRenderFns": Array [],
+  },
+  "$parent": undefined,
+  "$refs": Object {},
+  "$root": [Circular],
+  "$scopedSlots": Object {},
+  "$slots": Object {},
+  "$vnode": undefined,
+  "_c": [Function],
+  "_data": Object {},
+  "_directInactive": false,
+  "_events": Object {},
+  "_hasHookEvent": false,
+  "_inactive": null,
+  "_isBeingDestroyed": false,
+  "_isDestroyed": false,
+  "_isMounted": true,
+  "_isVue": true,
+  "_props": Object {
+    "content": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+    "metadata": Array [
+      Object {
+        "type": "source",
+        "value": "Overview | TolleyGuidance Corporate Tax - Guidance",
+      },
+      Object {
+        "type": "url",
+        "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+      },
+    ],
+    "title": "Grant of a sub-lease",
+  },
+  "_renderProxy": VueComponent {
+    "$attrs": Object {},
+    "$children": Array [],
+    "$createElement": [Function],
+    "$el": <div
+      class="SearchResultItem"
+      id="SearchResultItem"
+    >
+      <div
+        class="title"
+      >
+        <a
+          href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+        >
+          Grant of a sub-lease
+        </a>
+      </div>
+       
+      <div
+        class="metadata"
+      >
+        Overview | TolleyGuidance Corporate Tax - Guidance
+      </div>
+       
+      <div
+        class="content"
+      >
+        Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+      </div>
+    </div>,
+    "$listeners": Object {},
+    "$options": Object {
+      "_Ctor": Object {
+        "0": [Function],
+      },
+      "_base": [Function],
+      "_propKeys": Array [
+        "metadata",
+        "title",
+        "content",
+      ],
+      "components": Object {},
+      "directives": Object {},
+      "filters": Object {},
+      "name": "SearchResultItem",
+      "props": Object {
+        "content": Object {
+          "required": false,
+          "type": [Function],
+        },
+        "metadata": Object {
+          "required": false,
+          "type": [Function],
+          "validator": [Function],
+        },
+        "title": Object {
+          "required": false,
+          "type": [Function],
+        },
+      },
+      "propsData": Object {
+        "content": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+        "metadata": Array [
+          Object {
+            "type": "source",
+            "value": "Overview | TolleyGuidance Corporate Tax - Guidance",
+          },
+          Object {
+            "type": "url",
+            "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+          },
+        ],
+        "title": "Grant of a sub-lease",
+      },
+      "render": [Function],
+      "staticRenderFns": Array [],
+    },
+    "$parent": undefined,
+    "$refs": Object {},
+    "$root": [Circular],
+    "$scopedSlots": Object {},
+    "$slots": Object {},
+    "$vnode": undefined,
+    "_c": [Function],
+    "_data": Object {},
+    "_directInactive": false,
+    "_events": Object {},
+    "_hasHookEvent": false,
+    "_inactive": null,
+    "_isBeingDestroyed": false,
+    "_isDestroyed": false,
+    "_isMounted": true,
+    "_isVue": true,
+    "_props": Object {
+      "content": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+      "metadata": Array [
+        Object {
+          "type": "source",
+          "value": "Overview | TolleyGuidance Corporate Tax - Guidance",
+        },
+        Object {
+          "type": "url",
+          "value": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+        },
+      ],
+      "title": "Grant of a sub-lease",
+    },
+    "_renderProxy": [Circular],
+    "_self": [Circular],
+    "_staticTrees": null,
+    "_uid": 1,
+    "_vnode": VNode {
+      "asyncFactory": undefined,
+      "asyncMeta": undefined,
+      "children": Array [
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": Array [
+                VNode {
+                  "asyncFactory": undefined,
+                  "asyncMeta": undefined,
+                  "children": undefined,
+                  "componentInstance": undefined,
+                  "componentOptions": undefined,
+                  "context": undefined,
+                  "data": undefined,
+                  "elm": Grant of a sub-lease,
+                  "fnContext": undefined,
+                  "fnOptions": undefined,
+                  "fnScopeId": undefined,
+                  "isAsyncPlaceholder": false,
+                  "isCloned": false,
+                  "isComment": false,
+                  "isOnce": false,
+                  "isRootInsert": false,
+                  "isStatic": false,
+                  "key": undefined,
+                  "ns": undefined,
+                  "parent": undefined,
+                  "raw": false,
+                  "tag": undefined,
+                  "text": "Grant of a sub-lease",
+                },
+              ],
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": Object {
+                "attrs": Object {
+                  "href": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+                },
+              },
+              "elm": <a
+                href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+              >
+                Grant of a sub-lease
+              </a>,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "a",
+              "text": undefined,
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "title",
+          },
+          "elm": <div
+            class="title"
+          >
+            <a
+              href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+            >
+              Grant of a sub-lease
+            </a>
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": undefined,
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": undefined,
+          "data": undefined,
+          "elm":  ,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": undefined,
+          "text": " ",
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": undefined,
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": undefined,
+              "data": undefined,
+              "elm": Overview | TolleyGuidance Corporate Tax - Guidance,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": undefined,
+              "text": "Overview | TolleyGuidance Corporate Tax - Guidance",
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "metadata",
+          },
+          "elm": <div
+            class="metadata"
+          >
+            Overview | TolleyGuidance Corporate Tax - Guidance
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": undefined,
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": undefined,
+          "data": undefined,
+          "elm":  ,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": undefined,
+          "text": " ",
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": undefined,
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": undefined,
+              "data": undefined,
+              "elm": Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": undefined,
+              "text": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "content",
+          },
+          "elm": <div
+            class="content"
+          >
+            Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+      ],
+      "componentInstance": undefined,
+      "componentOptions": undefined,
+      "context": [Circular],
+      "data": Object {
+        "attrs": Object {
+          "id": "SearchResultItem",
+        },
+        "staticClass": "SearchResultItem",
+      },
+      "elm": <div
+        class="SearchResultItem"
+        id="SearchResultItem"
+      >
+        <div
+          class="title"
+        >
+          <a
+            href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+          >
+            Grant of a sub-lease
+          </a>
+        </div>
+         
+        <div
+          class="metadata"
+        >
+          Overview | TolleyGuidance Corporate Tax - Guidance
+        </div>
+         
+        <div
+          class="content"
+        >
+          Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+        </div>
+      </div>,
+      "fnContext": undefined,
+      "fnOptions": undefined,
+      "fnScopeId": undefined,
+      "isAsyncPlaceholder": false,
+      "isCloned": false,
+      "isComment": false,
+      "isOnce": false,
+      "isRootInsert": true,
+      "isStatic": false,
+      "key": undefined,
+      "ns": undefined,
+      "parent": undefined,
+      "raw": false,
+      "tag": "div",
+      "text": undefined,
+    },
+    "_watcher": Watcher {
+      "active": true,
+      "before": [Function],
+      "cb": [Function],
+      "deep": false,
+      "depIds": Set {
+        15,
+        6,
+        7,
+        10,
+        12,
+        16,
+        9,
+        17,
+      },
+      "deps": Array [
+        Dep {
+          "id": 15,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 6,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 7,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 10,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 12,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 16,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 9,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 17,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+      ],
+      "dirty": false,
+      "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+      "getter": [Function],
+      "id": 1,
+      "lazy": false,
+      "newDepIds": Set {},
+      "newDeps": Array [],
+      "sync": false,
+      "user": false,
+      "value": undefined,
+      "vm": [Circular],
+    },
+    "_watchers": Array [
+      Watcher {
+        "active": true,
+        "before": [Function],
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          15,
+          6,
+          7,
+          10,
+          12,
+          16,
+          9,
+          17,
+        },
+        "deps": Array [
+          Dep {
+            "id": 15,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 6,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 7,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 10,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 12,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 16,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 9,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 17,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 1,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+    ],
+  },
+  "_self": [Circular],
+  "_staticTrees": null,
+  "_uid": 1,
+  "_vnode": VNode {
+    "asyncFactory": undefined,
+    "asyncMeta": undefined,
+    "children": Array [
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": undefined,
+                "data": undefined,
+                "elm": Grant of a sub-lease,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": undefined,
+                "text": "Grant of a sub-lease",
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": [Circular],
+            "data": Object {
+              "attrs": Object {
+                "href": "https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U",
+              },
+            },
+            "elm": <a
+              href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+            >
+              Grant of a sub-lease
+            </a>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "a",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": [Circular],
+        "data": Object {
+          "staticClass": "title",
+        },
+        "elm": <div
+          class="title"
+        >
+          <a
+            href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+          >
+            Grant of a sub-lease
+          </a>
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": undefined,
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": undefined,
+        "data": undefined,
+        "elm":  ,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": undefined,
+        "text": " ",
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": undefined,
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": undefined,
+            "data": undefined,
+            "elm": Overview | TolleyGuidance Corporate Tax - Guidance,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": undefined,
+            "text": "Overview | TolleyGuidance Corporate Tax - Guidance",
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": [Circular],
+        "data": Object {
+          "staticClass": "metadata",
+        },
+        "elm": <div
+          class="metadata"
+        >
+          Overview | TolleyGuidance Corporate Tax - Guidance
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": undefined,
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": undefined,
+        "data": undefined,
+        "elm":  ,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": undefined,
+        "text": " ",
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": undefined,
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": undefined,
+            "data": undefined,
+            "elm": Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": undefined,
+            "text": "Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...",
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": [Circular],
+        "data": Object {
+          "staticClass": "content",
+        },
+        "elm": <div
+          class="content"
+        >
+          Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+    ],
+    "componentInstance": undefined,
+    "componentOptions": undefined,
+    "context": [Circular],
+    "data": Object {
+      "attrs": Object {
+        "id": "SearchResultItem",
+      },
+      "staticClass": "SearchResultItem",
+    },
+    "elm": <div
+      class="SearchResultItem"
+      id="SearchResultItem"
+    >
+      <div
+        class="title"
+      >
+        <a
+          href="https://www.lexisnexis.com/tolley/library/results/docView/D-WW-W-WCU-WCU-MsSAYWD-UUB-UZEYVWUUU-U-U-WCU-U-U-W-ACCAVVYCBA-ACVEUWEBBA-ECDWCVEDW-WCU-U"
+        >
+          Grant of a sub-lease
+        </a>
+      </div>
+       
+      <div
+        class="metadata"
+      >
+        Overview | TolleyGuidance Corporate Tax - Guidance
+      </div>
+       
+      <div
+        class="content"
+      >
+        Grant of a sub-lease Produced by Tolley Sub-lease granted out of freehold or long lease Where a premium is required under a lease of land, which is a short lease, a landlord is treated as receiving, when the lease is granted, an amount of rent (additional to any actual  ...... complete year, less one, comprised in the duratio...
+      </div>
+    </div>,
+    "fnContext": undefined,
+    "fnOptions": undefined,
+    "fnScopeId": undefined,
+    "isAsyncPlaceholder": false,
+    "isCloned": false,
+    "isComment": false,
+    "isOnce": false,
+    "isRootInsert": true,
+    "isStatic": false,
+    "key": undefined,
+    "ns": undefined,
+    "parent": undefined,
+    "raw": false,
+    "tag": "div",
+    "text": undefined,
+  },
+  "_watcher": Watcher {
+    "active": true,
+    "before": [Function],
+    "cb": [Function],
+    "deep": false,
+    "depIds": Set {
+      15,
+      6,
+      7,
+      10,
+      12,
+      16,
+      9,
+      17,
+    },
+    "deps": Array [
+      Dep {
+        "id": 15,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 6,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 7,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 10,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 12,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 16,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 9,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+      Dep {
+        "id": 17,
+        "subs": Array [
+          [Circular],
+        ],
+      },
+    ],
+    "dirty": false,
+    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+    "getter": [Function],
+    "id": 1,
+    "lazy": false,
+    "newDepIds": Set {},
+    "newDeps": Array [],
+    "sync": false,
+    "user": false,
+    "value": undefined,
+    "vm": [Circular],
+  },
+  "_watchers": Array [
+    Watcher {
+      "active": true,
+      "before": [Function],
+      "cb": [Function],
+      "deep": false,
+      "depIds": Set {
+        15,
+        6,
+        7,
+        10,
+        12,
+        16,
+        9,
+        17,
+      },
+      "deps": Array [
+        Dep {
+          "id": 15,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 6,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 7,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 10,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 12,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 16,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 9,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 17,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+      ],
+      "dirty": false,
+      "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+      "getter": [Function],
+      "id": 1,
+      "lazy": false,
+      "newDepIds": Set {},
+      "newDeps": Array [],
+      "sync": false,
+      "user": false,
+      "value": undefined,
+      "vm": [Circular],
+    },
+  ],
+}
+`;

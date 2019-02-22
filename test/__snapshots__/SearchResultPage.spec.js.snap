@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResultPage renders the page 1`] = `
+<div>
+  <h1>Search Result List</h1>
+  <searchresultheader-stub resultscount="250"></searchresultheader-stub>
+  <searchresultlist-stub results="[object Object],[object Object],[object Object]"></searchresultlist-stub>
+</div>
+`;
